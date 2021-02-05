@@ -98,17 +98,17 @@ const Checkout = ({ cart, order, onCaptureCheckout, error }) => {
       </div>
     );
 
-  // if (error) {
-  //   Confirmation = () => (
-  //     <>
-  //       <Typography variant="h5">Error: {error}</Typography>
-  //       <br />
-  //       <Button component={Link} variant="outlined" type="button" to="/">
-  //         Back to home
-  //       </Button>
-  //     </>
-  //   );
-  // }
+  if (error) {
+    Confirmation = () => (
+      <>
+        <Typography variant="h5">Error: {error}</Typography>
+        <br />
+        <Button component={Link} variant="outlined" type="button" to="/">
+          Back to home
+        </Button>
+      </>
+    );
+  }
 
   const Form = () =>
     activeStep === 0 ? (
