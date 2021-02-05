@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# E-Commerce Shopping App
+
+> A mobile responsive e-commerce shopping application using react-js, commerce-js & stripe-js.
+
+<p align="center">
+    <img width="250" src="https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png" alt="image" />
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
