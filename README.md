@@ -6,6 +6,7 @@
     <img width="250" src="https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png" alt="image" />
 </p>
 
+[Go to description for details]('./description.md')
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
