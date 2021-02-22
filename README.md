@@ -8,6 +8,17 @@
 
 [Go to description for details]('./description.md') <br />
 
+## Components
+- Header
+- Footer
+- Home
+- Products
+- Checkout
+- CheckoutItems
+- Payment
+- Subtotal
+- 
+
 ## Dependencies
 - material-ui/core & material-ui/icons
 - react-currency-format
